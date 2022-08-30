@@ -12,7 +12,7 @@ Loja de Ovos de Páscoa com pedido via Whatsapp: https://divinodoce.vercel.app/
 
 Estas são algumas das tecnologias e ferramentas com as quais trabalho: 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,figma,nextjs,nodejs,git,github)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,figma,nextjs,nodejs,git,github)](https://skillicons.dev) 
 
 ▪ Curso de JavaScript do Curso em Vídeo de Gustavo Guanabara (YouTube). 
 
